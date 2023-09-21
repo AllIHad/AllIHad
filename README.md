@@ -2,11 +2,6 @@
 
 Perkenalkan nama saya **Ibadurrahman Al Hadi**.\
 
-Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).\
-
-Saya bertanggung jawab pada pembelajaran materi yang di berikan oleh Dicoding 
-
-
 
 
 <p align="left">
